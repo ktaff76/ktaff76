@@ -41,13 +41,15 @@ Proud U.S. Marine Corps Veteran with a proven record of leadership, resilience, 
 
 ## 🎓 Education & Certifications
 - **Master's in Data Science** – Expected completion  May 2026
-
+- 
+![Master's in Data Science](https://img.shields.io/badge/Education-Master's%20in%20Data%20Science-brightgreen)
 
 ---
-
 ## 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/kristophertaff](https://linkedin.com/in/kristophertaff)
-- **Email:** ktaff76@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/kristophertaff)
+[![Email](https://img.shields.io/badge/Email-ktaff76@gmail.com-red?logo=gmail)](mailto:ktaff76@gmail.com)
+
+
 
 ---
 
