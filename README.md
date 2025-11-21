@@ -30,6 +30,7 @@ Proud U.S. Marine Corps Veteran with a proven record of leadership, resilience, 
 - **Machine Learning:** Scikit-learn
 - **Visualization:** Matplotlib, Seaborn
 - **Databases:** MySQL
+  
 ![Python](https://img.shields.io/badge/Code-Python-yellow)
 ![R](https://img.shields.io/badge/Code-R-blue)
 ![SQL](https://img.shields.io/badge/Database-SQL-lightgrey)
