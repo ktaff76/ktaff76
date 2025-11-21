@@ -6,9 +6,6 @@ I'm a **Senior Data Analyst** working in the travel and hospitality industry, tr
 - 🔭 I’m working on advanced **ML models** and **data pipelines**.
 - 🌱 Learning **Deep Learning**, **MLOps**, and **Generative AI**.
 - 🎯 Goal: Become a **Machine Learning Engineer** and contribute to cutting-edge AI projects.
-
----
-
 - 🔍 Expertise in **A/B Testing**, **Conversion Rate Optimization**, and **Digital Analytics**.
 - 🧪 Skilled in designing and analyzing **experimentation frameworks** for data-driven decision-making.
 - 📊 Hands-on experience with **Google Analytics**, **Adobe Analytics**, **Adobe Target** and advanced analytics implementations with **Data Layer** using **Adobe Data Collection**.
