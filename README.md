@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Kristopher Taff 👋
 
-<!--
-**ktaff76/ktaff76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Senior Data Analyst** working in the travel and hospitality industry, transitioning into **Machine Learning Engineering**. Currently finishing my **Master's in Data Science**, with a strong passion for **AI development** and building intelligent systems that drive business growth.
 
-Here are some ideas to get you started:
+- 🔭 I’m working on advanced **ML models** and **data pipelines**.
+- 🌱 Learning **Deep Learning**, **MLOps**, and **Generative AI**.
+- 🎯 Goal: Become a **Machine Learning Engineer** and contribute to cutting-edge AI projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔍 Expertise in **A/B Testing**, **Conversion Rate Optimization**, and **Digital Analytics**.
+- 🧪 Skilled in designing and analyzing **experimentation frameworks** for data-driven decision-making.
+- 📊 Hands-on experience with **Google Analytics**, **Adobe Analytics**, **Adobe Target** and advanced analytics implementations with **Data Layer** using **Adobe Data Collection**.
+
+
+---
+
+## 🛠 Skills & Tools
+- **Languages:** Python, SQL, R, HTML, CSS, Java Script
+- **Data Science:** Pandas, NumPy
+- **Machine Learning:** Scikit-learn
+- **Visualization:** Matplotlib, Seaborn
+- **Databases:** MySQL
+
+
+---
+
+## 🎓 Education & Certifications
+- **Master's in Data Science** – Expected completion  May 2026
+
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/kristophertaff](https://linkedin.com/in/kristophertaff)
+- **Email:** ktaff76@gmail.com
+
+---
+
+
