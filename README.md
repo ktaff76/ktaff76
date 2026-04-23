@@ -40,7 +40,7 @@ Proud U.S. Marine Corps Veteran with a proven record of leadership, resilience, 
 ---
 
 ## 🎓 Education & Certifications
-- **Master's in Data Science** – Expected completion  May 2026
+- **Master's in Data Science** 
   
 ![Master's in Data Science](https://img.shields.io/badge/Education-Master's%20in%20Data%20Science-brightgreen)
 
