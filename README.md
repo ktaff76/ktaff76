@@ -1,7 +1,7 @@
 # Hi there, I'm Kris Taff 👋
 
 ## 🚀 About Me
-I'm a **Senior Data Analyst** working in the travel and hospitality industry, transitioning into **Machine Learning Engineering**. Currently finishing my **Master's in Data Science**, with a strong passion for **AI development** and building intelligent systems that drive business growth.
+I'm a **Senior Data Analyst** working in the travel and hospitality industry, transitioning into **Machine Learning Engineering** and **AI Governance**. with a strong passion for **AI development** and building intelligent systems that drive business growth.
 
 - 🔭 I’m working on advanced **ML models** and **data pipelines**.
 - 🌱 Learning **Deep Learning**, **MLOps**, and **Generative AI**.
